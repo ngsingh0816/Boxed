@@ -1,0 +1,1 @@
+productbuild --component /Developer/Projects/Save/Boxed/build/Boxed.app /Applications --sign "3rd Party Mac Developer Installer: Milap Singh" /Developer/Projects/Save/Boxed/build/Boxed.pkg
